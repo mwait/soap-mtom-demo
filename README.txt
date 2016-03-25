@@ -1,0 +1,1 @@
+http://localhost:8080/soap-mtom-demo/services/soapWsFileUpload?wsdl
